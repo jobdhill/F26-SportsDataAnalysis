@@ -10,6 +10,7 @@ Members pick a sport and a dataset they actually care about and walk the full da
 
 ## Slides
  - **Week 1** - [slides](https://docs.google.com/presentation/d/1KG-OJ23Ckjms0Rk_jtmu4oldWqQzdCDbHG2Se_3RJ8I/edit?slide=id.g205abd3d8cc_0_3157#slide=id.g205abd3d8cc_0_3157)
+ - - **Week 2** - [slides](https://docs.google.com/presentation/d/1ymseaCT0UnJsaU29bia38h8BgPMlp4TO-lyqT1rc8WE/edit?slide=id.g205abd3d8cc_0_3157#slide=id.g205abd3d8cc_0_3157)
 
 ## Tech Stack
 
